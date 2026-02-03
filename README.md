@@ -2,8 +2,6 @@
 
 
 
-# 🧠 YOLOv8 Object Detection –  Micro Project
-
 ## Real-Time Image-Based Object Detection using YOLOv8
 
 ---
