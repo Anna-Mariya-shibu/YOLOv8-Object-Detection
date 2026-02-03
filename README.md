@@ -1,11 +1,8 @@
 # YOLOv8-Object-Detection
-Below is a **new GitHub README** for your project — similar in style, but with **different wording, structure, and a few upgraded ideas** (and aligned with your future plan of using **Django** and local IDEs like **VS Code / PyCharm**).
 
-You can **directly copy–paste** this into your GitHub README file.
 
----
 
-# 🧠 YOLOv8 Object Detection – Beginner Micro Project
+# 🧠 YOLOv8 Object Detection –  Micro Project
 
 ## Real-Time Image-Based Object Detection using YOLOv8
 
