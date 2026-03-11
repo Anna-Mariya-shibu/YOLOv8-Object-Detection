@@ -111,7 +111,7 @@ results = model("your_image.jpg", conf=0.4)
 ---
 
 ## 📊 Output Description
-![Output](apple out.jpeg)
+![Output](apple%20out.jpeg)
 
 The output of the system includes:
 
